@@ -19,10 +19,10 @@
 
 <h3 align="center">shopify-clone-website <h3>
 
-  <p align="center">
+ <p align="center">
     <br />
 <!-- put link live website     -->
-    <a href=https://bucolic-cendol-a8a27e.netlify.app/</a>
+    <a href="https://bucolic-cendol-a8a27e.netlify.app/">Live Link</a>
   </p>
 </div>
 
@@ -44,8 +44,17 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+ <div align="center">
+      <h3 style="color:green;">
+      Shopify is a popular online e-commerce platform that small businesses can use to build online stores to sell products on websites or via social media. The company also sells point-of-sale, or POS, software that small businesses can use in their brick-and-mortar stores.
+
+Shopify has several add-ons that can help you do more. Notable add-ons include Shopify Payments, which are used to accept credit cards; Shopify Shipping, which generates shipping labels and discounts on shipping; and Shopify Markets, which lets businesses sell internationally. Those add-ons can generate additional fees.
+      </h3>
+   
+ </div>
 <!-- write prohect no and ss of project homepage  -->
-![shopify: shopify](https://github.com/ashish259/Developer_landing_website/blob/main/developer_landinpage.png?raw=true)
+
+![shopify: shopify](https://github.com/ashish259/shopify-clone-website/blob/main/shopyhomepAGESS.png?raw=true)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
@@ -57,6 +66,7 @@ Here's a project learnt and build the project based on HTML5 and CSS3 only
 
 1. ![HTML][html-shield]
 2. ![CSS][css-shield]
+3. ![talwindinshield]
 
 **Using Tools**
 
@@ -65,6 +75,7 @@ Here's a project learnt and build the project based on HTML5 and CSS3 only
 3. ![Git][git-shield]
 4. ![Github][github-shield]
 5. ![Netlify][netlify-shield]
+
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -157,6 +168,7 @@ My Repo Link: [link](https://github.com/ashish259?tab=repositories)
 [netlify-shield]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[talwindinshield]:https://camo.githubusercontent.com/ec8056bddf659d21de39b358d9786e56731cd767117e091348411666a5e7eee6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465
 
 <!-- Project screenshot -->
 
