@@ -1,30 +1,4 @@
-#shopify-clone-website
-<div id="top"></div>
 
-<!-- Social Links -->
-
-[![LinkedIn][linkedin-shield]]
-[![Instagram][instagram-shield]
-[![Twitter][twitter-shield]
-[![Hashnode][hashnode-shield]
-
-<!-- PROJECT LOGO -->
-<br />
-   <div align="center">
-<!--   put github main home page -->
-   <a href="https://github.com/ashish259/shopify-clone-website/blob/main/shopyhomepAGESS.png?raw=true">     
-    <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
-   </a>
-   </div>
-
-<h3 align="center">shopify-clone-website <h3>
-
- <p align="center">
-    <br />
-<!-- put link live website     -->
-    <a href="https://bucolic-cendol-a8a27e.netlify.app/">Live Link</a>
-  </p>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details align="center">
@@ -116,62 +90,4 @@ For this project I took around `35to 36 hours` to complete it. The major portion
 ![ shopify:Screenshot6](https://github.com/ashish259/shopify-clone-website/blob/main/shopify-06.jpeg?raw=true)
 ![ shopify:Screenshot7](https://github.com/ashish259/shopify-clone-website/blob/main/shopify-07.jpeg?raw=true)
 
-
-<!-- CONTACT -->
-
-## Contact
-
-- **Name :** Ashish yadav
-- **Email :** krashish107@gmail.com
-<!--put link of live netlify    -->
-- **Website :** [shopify-clone-website](https://bucolic-cendol-a8a27e.netlify.app/ )
-- **Portfolio :** [ashishportfolio](https://lustrous-frangollo-0dd873.netlify.app/)
-
-My Repo Link: [link](https://github.com/ashish259?tab=repositories)
-
-<!-- BACK TO TOP -->
-
-[![Product Name Screen Shot][backtotop-shield]](#top)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-<!-- Linkedin -->
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
-[linkedin-url]: https://www.linkedin.com/in/ashish-20164b176/
-
-<!-- Instagram -->
-
-[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/kr.ashish107/
-
-<!-- Twitter -->
-
-[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[twitter-url]: 
-
-<!-- Hashnode -->
-
-[hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
-[hashnode-url]: https://startcode.hashnode.dev/
-
-<!-- Back to Top -->
-
-[backtotop-shield]: https://img.shields.io/badge/Back%20to%20Top-%5E-brightgreen
-
-<!-- Tools and Technologies -->
-
-[html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[vscode-shield]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[chrome-shield]: https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white
-[netlify-shield]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
-[git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[talwindinshield]:https://camo.githubusercontent.com/ec8056bddf659d21de39b358d9786e56731cd767117e091348411666a5e7eee6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465
-
-<!-- Project screenshot -->
-
-[product-screenshot]:https://github.com/ashish259/Developer_landing_website/blob/main/developer_landinpage.png?raw=true
-[project-url]: https://github.com/ashish259/Developer_landing_website
 
